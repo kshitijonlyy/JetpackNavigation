@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jetpack Navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnNext">Next</string>
+    <string name="name">Enter Your Name</string>
+    <string name="phone">Enter Phone Number</string>
+    <string name="money">Enter Money (in decimals)</string>
+</resources>
